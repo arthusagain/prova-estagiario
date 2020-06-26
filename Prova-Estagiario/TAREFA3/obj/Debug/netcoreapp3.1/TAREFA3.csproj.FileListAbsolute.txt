@@ -1,0 +1,13 @@
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\bin\Debug\netcoreapp3.1\TAREFA3.exe
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\bin\Debug\netcoreapp3.1\TAREFA3.deps.json
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\bin\Debug\netcoreapp3.1\TAREFA3.runtimeconfig.json
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\bin\Debug\netcoreapp3.1\TAREFA3.runtimeconfig.dev.json
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\bin\Debug\netcoreapp3.1\TAREFA3.dll
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\bin\Debug\netcoreapp3.1\TAREFA3.pdb
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\obj\Debug\netcoreapp3.1\TAREFA3.csprojAssemblyReference.cache
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\obj\Debug\netcoreapp3.1\TAREFA3.csproj.CoreCompileInputs.cache
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\obj\Debug\netcoreapp3.1\TAREFA3.AssemblyInfoInputs.cache
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\obj\Debug\netcoreapp3.1\TAREFA3.AssemblyInfo.cs
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\obj\Debug\netcoreapp3.1\TAREFA3.dll
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\obj\Debug\netcoreapp3.1\TAREFA3.pdb
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA3\obj\Debug\netcoreapp3.1\TAREFA3.genruntimeconfig.cache

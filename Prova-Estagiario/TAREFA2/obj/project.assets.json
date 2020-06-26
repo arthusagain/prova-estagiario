@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arthus\\Documents\\_prova-estagiario\\Prova-Estagiario\\TAREFA2\\TAREFA2.csproj",
+      "projectUniqueName": "C:\\Users\\Arthus\\Documents\\prova-estagiario\\Prova-Estagiario\\TAREFA2\\TAREFA2.csproj",
       "projectName": "TAREFA2",
-      "projectPath": "C:\\Users\\Arthus\\Documents\\_prova-estagiario\\Prova-Estagiario\\TAREFA2\\TAREFA2.csproj",
+      "projectPath": "C:\\Users\\Arthus\\Documents\\prova-estagiario\\Prova-Estagiario\\TAREFA2\\TAREFA2.csproj",
       "packagesPath": "C:\\Users\\Arthus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arthus\\Documents\\_prova-estagiario\\Prova-Estagiario\\TAREFA2\\obj\\",
+      "outputPath": "C:\\Users\\Arthus\\Documents\\prova-estagiario\\Prova-Estagiario\\TAREFA2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arthus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arthus\\Documents\\_prova-estagiario\\Prova-Estagiario\\TAREFA1\\TAREFA1.csproj": {}
+    "C:\\Users\\Arthus\\Documents\\prova-estagiario\\Prova-Estagiario\\TAREFA1\\TAREFA1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arthus\\Documents\\_prova-estagiario\\Prova-Estagiario\\TAREFA1\\TAREFA1.csproj": {
+    "C:\\Users\\Arthus\\Documents\\prova-estagiario\\Prova-Estagiario\\TAREFA1\\TAREFA1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arthus\\Documents\\_prova-estagiario\\Prova-Estagiario\\TAREFA1\\TAREFA1.csproj",
+        "projectUniqueName": "C:\\Users\\Arthus\\Documents\\prova-estagiario\\Prova-Estagiario\\TAREFA1\\TAREFA1.csproj",
         "projectName": "TAREFA1",
-        "projectPath": "C:\\Users\\Arthus\\Documents\\_prova-estagiario\\Prova-Estagiario\\TAREFA1\\TAREFA1.csproj",
+        "projectPath": "C:\\Users\\Arthus\\Documents\\prova-estagiario\\Prova-Estagiario\\TAREFA1\\TAREFA1.csproj",
         "packagesPath": "C:\\Users\\Arthus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arthus\\Documents\\_prova-estagiario\\Prova-Estagiario\\TAREFA1\\obj\\",
+        "outputPath": "C:\\Users\\Arthus\\Documents\\prova-estagiario\\Prova-Estagiario\\TAREFA1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arthus\\AppData\\Roaming\\NuGet\\NuGet.Config",

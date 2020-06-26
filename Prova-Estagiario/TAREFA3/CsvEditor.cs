@@ -2,7 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 
-namespace TAREFA2
+namespace TAREFA3
 {
     public class CsvLinha : List<string>
     {

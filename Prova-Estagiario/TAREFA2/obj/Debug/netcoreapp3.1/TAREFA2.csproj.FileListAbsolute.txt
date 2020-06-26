@@ -11,3 +11,16 @@ C:\Users\Arthus\Documents\_prova-estagiario\Prova-Estagiario\TAREFA2\bin\Debug\n
 C:\Users\Arthus\Documents\_prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.dll
 C:\Users\Arthus\Documents\_prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.pdb
 C:\Users\Arthus\Documents\_prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.genruntimeconfig.cache
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.exe
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.deps.json
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.runtimeconfig.json
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.runtimeconfig.dev.json
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.dll
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.pdb
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.csprojAssemblyReference.cache
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.csproj.CoreCompileInputs.cache
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.AssemblyInfoInputs.cache
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.AssemblyInfo.cs
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.dll
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.pdb
+C:\Users\Arthus\Documents\prova-estagiario\Prova-Estagiario\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.genruntimeconfig.cache
