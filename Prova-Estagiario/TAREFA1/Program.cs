@@ -13,17 +13,19 @@ namespace TAREFA1
 
         public static void Main()
         {
-
+            //acessa arquivo necessario
             using (CsvEditor leitor = new CsvEditor("../../../../../mapa.csv"))
             {
                 StringBuilder novoArquivo = new StringBuilder();
                 CsvLinha linha = new CsvLinha();
                 char separador = ';';
 
+                //trata primeira linha de rotulos
                 leitor.LerLinha(linha, separador);
                 string novaLinha = string.Format("{0}; {1}\n", linha[0], linha[1]);
                 novoArquivo.Append(novaLinha);
 
+                //le cada linha, dobrando valores da coluna 'populacao'. escreve resultados em string
                 while (leitor.LerLinha(linha, separador))
                 {
                     string localizacao = linha[0];
@@ -32,6 +34,7 @@ namespace TAREFA1
                     novoArquivo.Append(novaLinha);
                 }
 
+                //usa string gerada para produzir arquivo de resultados
                 File.WriteAllText("../../../resultado.csv", novoArquivo.ToString());
             }
         }
